@@ -23,7 +23,7 @@ grayColor.addEventListener("click", function() {
 // Black circle click code
 blackColor.addEventListener("click", function() {
     cartButton.style.backgroundColor = "black"
-    itemTag.style.backgroundColor = "black"
+    itemTag.style.color = "white"
     imageCard.style.backgroundImage = "url(./img/black-benz.jpg)"
 })
 
